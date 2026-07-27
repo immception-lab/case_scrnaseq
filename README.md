@@ -105,17 +105,16 @@ justification.**
 
 ## Submitting
 
-Send four things to **`<contact@example.org>`**, at least **24 hours** before
-your discussion slot (`<deadline>`):
+Send four things to **`<nicolas[point]gaudenzio[et]inserm[point].fr>`**`):
 
 - [ ] The notebook, executed, **with outputs visible** (`File > Download > .ipynb`)
 - [ ] The cluster annotation table from Part 6
 - [ ] The one-page summary from Part 8
 - [ ] Five to eight slides for a 15 minute presentation (Part 9), any format
 
-Then a **30 minute conversation**. We will pick three or four of your choices and
+Then we will schedule a **30 minute conversation**. We will pick three or four of your choices and
 ask you to justify them, and we will ask what you would do differently with a
-month instead of an afternoon. Come ready to disagree with us.
+month instead of a short deadline. Come ready to disagree with us.
 
 ---
 
